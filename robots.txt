@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gjepks.github.io/sitemap.html.gz
+Sitemap: https://gjepks.github.io/app/sitemap.html.gz
+Sitemap: https://gjepks.github.io/assets/sitemap.html.gz
+Sitemap: https://gjepks.github.io/css/sitemap.html.gz
+Sitemap: https://gjepks.github.io/includes/sitemap.html.gz
+Sitemap: https://gjepks.github.io/item/sitemap.html.gz
+Sitemap: https://gjepks.github.io/src/sitemap.html.gz
